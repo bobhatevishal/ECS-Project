@@ -29,4 +29,5 @@ This project demonstrates how to containerize a simple web application and deplo
 ## 📂 Project Structure
 
 # ECS-Project
-![ecs](https://github.com/user-attachments/assets/fec3f237-d11d-40cf-9c62-2f27624664b0)
+![aappage](https://github.com/user-attachments/assets/62f3482d-af89-45d7-9ee6-b15948846eb1)
+
